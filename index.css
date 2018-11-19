@@ -1,0 +1,47 @@
+body {
+  max-width: 500px;
+  margin: 2em auto;
+  font-size: 20px;
+}
+
+canvas {
+  display: none;
+}
+
+#image {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttons-wrapper {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#video {
+  display: block;
+  width: 100%;
+}
+
+.button-demo {
+  padding: 0.5em;
+  display: inline-block;
+  margin: 1em auto;
+}
+
+.author {
+  display: block;
+  margin-top: 1em;
+}
+
+#photo {
+  display: none;
+}
